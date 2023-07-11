@@ -9,7 +9,7 @@
   -Font Awesome(To get some icons like map locator & arrow icon)
 
 ## Main Steps to create these pages
-  -First we will create our index.html file and style.css file.<br>
+  * First we will create our index.html file and style.css file.<br>
   -Then we will add navigation bar to top of it having our logo and some more icons in left and in right we will add search bar and profile photo to it.<br>
   -Then we will divide the page into three parts- left sidebar , mid-content and right sidebar.<br>
   -We will create left and right sidebar sticky so that when we scroll our webpage left and right sidebar do not get scrolled.<br>
